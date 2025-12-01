@@ -333,7 +333,7 @@ elif page == "Threshold Optimization":
 
     with strategy_col1:
         st.markdown("""
-        **Growth-Focused (0.3-0.4)**
+        **Growth-Focused (0.4-0.5)**
         - Maximize approval volume
         - Accept higher default risk
         - Good for: Fintech, expansion phase
@@ -343,7 +343,7 @@ elif page == "Threshold Optimization":
 
     with strategy_col2:
         st.markdown("""
-        **Balanced (0.45-0.55)**
+        **Balanced (0.3-0.4)**
         - Balance risk and growth
         - Industry standard approach
         - Good for: Traditional banks
@@ -353,7 +353,7 @@ elif page == "Threshold Optimization":
 
     with strategy_col3:
         st.markdown("""
-        **Conservative (0.6-0.7)**
+        **Conservative (0.2-0.3)**
         - Minimize default risk
         - Lower approval volume
         - Good for: Risk-averse institutions
