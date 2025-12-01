@@ -1,0 +1,4 @@
+group,demographic_parity,equal_opportunity,equalized_odds
+Home Ownership,PASS,PASS,PASS
+Credit Score Range,PASS,FAIL,FAIL
+Income Level,PASS,PASS,PASS
