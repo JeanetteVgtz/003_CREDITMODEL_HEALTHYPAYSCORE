@@ -1,6 +1,6 @@
-# CREDIT RISK MODELING FOR PERSONAL LOANS - PROJECT SUBMISSION
+# CREDIT RISK MODELING FOR MEDICAL LOANS
 
-**Author:** Gian Carlo Campos Sayavedra  
+**Author:** Gian Carlo Campos Sayavedra, Jeanette Valenzuela Gutierrez, Paulina Elizabeth Mejia Hori  
 **Course:** Modelos de Crédito  
 **Date:** Novemeber 1, 2025
 
