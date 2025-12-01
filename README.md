@@ -2,7 +2,7 @@
 
 **Author:** Gian Carlo Campos Sayavedra, Jeanette Valenzuela Gutierrez, Paulina Elizabeth Mejia Hori  
 **Course:** Modelos de Crédito  
-**Date:** Novemeber 1, 2025
+**Date:** December 1, 2025
 
 ---
 
