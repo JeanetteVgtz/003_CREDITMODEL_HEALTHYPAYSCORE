@@ -1,6 +1,126 @@
-.venv/ 
-data/raw/*.csv 
-__pycache__/ 
-*.pyc 
-.ipynb_checkpoints/ 
-data/processed/*_scaled.csv 
+# Credit Risk Assessment System - .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+.spyproject/
+*.sublime-*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+*_backup.*
+*_old.*
+*.swp
+*~
+
+# Data files (raw data - too large)
+data/raw/
+data/external/
+
+# Generated files
+reports/
+diagrams/
+outputs/
+*.png
+*.jpg
+*.pdf
+
+# Model files (if using Git LFS, uncomment these)
+# *.h5
+# *.pkl
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+coverage.xml
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large CSV files (optional - comment out if you need to include them)
+# *.csv
+
+# Backup files
+*_backup/
+backup/
+old/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Profiling
+*.prof
+*.lprof
