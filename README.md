@@ -1,4 +1,4 @@
-# Credit Risk Assessment System
+# HealthyPayScore - Credit Risk Assessment System
 
 ## Advanced Neural Network-Based Credit Modeling with Medical Procedure Financing Innovation
 
@@ -20,8 +20,8 @@ This project implements a production-ready credit risk assessment system using n
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GCCS11/credit-risk-assessment.git
-cd credit-risk-assessment
+git clone https://github.com/JeanetteVgtz/003_CREDITMODEL_HEALTHYPAYSCORE.git
+cd 003_CREDITMODEL_HEALTHYPAYSCORE
 ```
 
 2. Create virtual environment:
@@ -47,13 +47,12 @@ The app will open in your browser at `http://localhost:8501`
 ## Project Structure
 
 ```
-credit-risk-assessment/
+003_CREDITMODEL_HEALTHYPAYSCORE/
 │
 ├── streamlit_app.py              # Main Streamlit application
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
 ├── .gitignore                    # Git ignore rules
-├── LICENSE                       # MIT License
 │
 ├── src/                          # Source code modules
 │   ├── __init__.py
@@ -268,6 +267,11 @@ The application requires the following files in `data/processed/`:
 
 This project was developed for the **Modelos de Crédito** course at **ITESO** (Instituto Tecnológico y de Estudios Superiores de Occidente) under Professor **Rodolfo Slay Ramos**.
 
+### Project Team
+- Jeanette Vazquez
+- Gian Carlo
+- Paulina Mejia
+
 ### Key Learning Objectives
 - Credit risk modeling with neural networks
 - Model validation and fairness testing
@@ -292,6 +296,4 @@ This project was developed for the **Modelos de Crédito** course at **ITESO** (
 - Scikit-learn 1.4.0 (Preprocessing & Metrics)
 - Pandas & NumPy (Data Processing)
 - Plotly, Matplotlib, Seaborn (Visualization)
-
----
 
